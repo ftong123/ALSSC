@@ -15,7 +15,7 @@ matplotlib
 gdal  
 imageio  
 scikit-learn  
-joblib
+joblib  
 opencv-python**
 
 
