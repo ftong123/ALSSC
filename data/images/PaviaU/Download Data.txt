@@ -1,0 +1,6 @@
+Please download the dataset in this website:https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes.
+Then put downloaded files in this folder:
+(1)PaviaU.mat
+(2)PaviaU_gt.mat
+
+After that, you can run the ALSSC_PaviaU_Demo.py to test the code.

@@ -1,0 +1,6 @@
+Please download the dataset in this website:https://github.com/Bin-Zh/Three-dimensional-convolutional-neural-network-model-for-tree-species-classification-using-airborne-/tree/master/data/testarea2_new.
+Then put downloaded files in this folder:
+(1)sg_quac_test2.tif
+(2)sg_quac_test2_gt.tif
+
+After that, you can run the ALSSC_Tree_Species_Demo.py to test the code.
