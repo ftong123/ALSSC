@@ -11,8 +11,8 @@
 numpy  
 scipy  
 numba  
-matplotlib  
-gdal
+matplotlib    
+gdal  
 imageio  
 scikit-learn  
 joblib
