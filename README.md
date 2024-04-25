@@ -1,5 +1,5 @@
 # ALSSC
-**This is the code for our paper submitted to IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**
+**This is the code for our paper accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**
 
 **Title of the paper:** Active Learning-based Spectral-Spatial Classification for Discriminating Tree Species in Hyperspectral Images
 
